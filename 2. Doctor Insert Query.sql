@@ -1,0 +1,22 @@
+INSERT INTO Doctor (DoctorId, FirstName, LastName, Specialization, DepartmentId, Qualifications, Email, ContactNumber, Gender, WorkingHours, ConsultationFee, BloodGroup, Address)
+VALUES
+(12345, 'John', 'Doe', 'Cardiologist', 101, 'MBBS, MD', 'john.doe@email.com', '1234567890', 'Male', '9AM-5PM', 50.00, 'O+', '123 Main St'),
+(12346, 'Jane', 'Smith', 'Neurologist', 102, 'MBBS, MD', 'jane.smith@email.com', '1234567891', 'Female', '10AM-6PM', 60.00, 'A+', '456 Elm St'),
+(12347, 'Emily', 'Johnson', 'Orthopedic Surgeon', 103, 'MBBS, MS', 'emily.johnson@email.com', '1234567892', 'Female', '8AM-4PM', 70.00, 'B-', '789 Oak St'),
+(12348, 'Michael', 'Williams', 'Pediatrician', 104, 'MBBS, MD', 'michael.williams@email.com', '1234567893', 'Male', '9AM-3PM', 40.00, 'AB+', '321 Pine St'),
+(12349, 'Sarah', 'Brown', 'Radiologist', 105, 'MBBS, MD', 'sarah.brown@email.com', '1234567894', 'Female', '9AM-5PM', 80.00, 'O-', '654 Maple St'),
+(12350, 'David', 'Miller', 'Oncologist', 101, 'MBBS, MD', 'david.miller@email.com', '1234567895', 'Male', '9AM-5PM', 100.00, 'A-', '123 Cancer Ave'),
+(12351, 'Laura', 'Davis', 'Dermatologist', 102, 'MBBS, MD', 'laura.davis@email.com', '1234567896', 'Female', '8AM-4PM', 55.00, 'B+', '456 Skin Blvd'),
+(12352, 'James', 'Martinez', 'ENT Specialist', 103, 'MBBS, MD', 'james.martinez@email.com', '1234567897', 'Male', '9AM-5PM', 65.00, 'O+', '789 Ear St'),
+(12353, 'Maria', 'Taylor', 'Gastroenterologist', 104, 'MBBS, MD', 'maria.taylor@email.com', '1234567898', 'Female', '10AM-6PM', 75.00, 'AB+', '321 Digestive Rd'),
+(12354, 'Robert', 'Lee', 'Endocrinologist', 105, 'MBBS, MD', 'robert.lee@email.com', '1234567899', 'Male', '9AM-5PM', 90.00, 'O-', '654 Hormone Ln'),
+(12355, 'Linda', 'Thomas', 'Urologist', 101, 'MBBS, MD', 'linda.thomas@email.com', '1234567800', 'Female', '9AM-5PM', 60.00, 'A+', '123 Urology Blvd'),
+(12356, 'Kevin', 'White', 'Psychiatrist', 102, 'MBBS, MD', 'kevin.white@email.com', '1234567801', 'Male', '8AM-4PM', 110.00, 'B-', '456 Mental St'),
+(12357, 'Olivia', 'Walker', 'Pulmonologist', 103, 'MBBS, MD', 'olivia.walker@email.com', '1234567802', 'Female', '9AM-5PM', 85.00, 'AB+', '789 Lungs Dr'),
+(12358, 'William', 'Hall', 'Nephrologist', 104, 'MBBS, MD', 'william.hall@email.com', '1234567803', 'Male', '8AM-4PM', 95.00, 'O-', '321 Kidney Ln'),
+(12359, 'Charlotte', 'Allen', 'Rheumatologist', 105, 'MBBS, MD', 'charlotte.allen@email.com', '1234567804', 'Female', '9AM-5PM', 80.00, 'A-', '654 Arthritis Ave'),
+(12360, 'Daniel', 'Young', 'Hematologist', 101, 'MBBS, MD', 'daniel.young@email.com', '1234567805', 'Male', '9AM-5PM', 120.00, 'B+', '123 Blood St'),
+(12361, 'Sophia', 'King', 'Geriatrician', 102, 'MBBS, MD', 'sophia.king@email.com', '1234567806', 'Female', '8AM-4PM', 65.00, 'O+', '456 Senior Rd'),
+(12362, 'Jacob', 'Scott', 'Orthodontist', 103, 'DDS, PhD', 'jacob.scott@email.com', '1234567807', 'Male', '9AM-5PM', 130.00, 'A-', '789 Smile Blvd'),
+(12363, 'Isabella', 'Adams', 'Ophthalmologist', 104, 'MBBS, MD', 'isabella.adams@email.com', '1234567808', 'Female', '9AM-5PM', 150.00, 'O-', '321 Eye Ln'),
+(12364, 'Ethan', 'Nelson', 'Plastic Surgeon', 105, 'MBBS, MS', 'ethan.nelson@email.com', '1234567809', 'Male', '9AM-5PM', 200.00, 'B+', '654 Beauty Rd');

@@ -1,0 +1,22 @@
+INSERT INTO Nurse (NurseId, FirstName, LastName, DepartmentId, Qualifications, Email, ContactNumber, Gender, WorkingHours, BloodGroup, Address)
+VALUES
+(9876, 'Alice', 'Smith', 101, 'RN', 'alice.smith@email.com', '9876543210', 'Female', '7AM-3PM', 'B+', '123 Heart Lane'),
+(9877, 'Bob', 'Johnson', 102, 'RN', 'bob.johnson@email.com', '9876543211', 'Male', '7AM-3PM', 'A+', '456 Brain Blvd'),
+(9878, 'Clara', 'Davis', 103, 'RN', 'clara.davis@email.com', '9876543212', 'Female', '8AM-4PM', 'O-', '789 Bone St'),
+(9879, 'Daniel', 'Moore', 104, 'RN', 'daniel.moore@email.com', '9876543213', 'Male', '9AM-5PM', 'AB-', '321 Kid Ave'),
+(9880, 'Eva', 'Taylor', 105, 'RN', 'eva.taylor@email.com', '9876543214', 'Female', '8AM-4PM', 'B-', '654 Imaging Dr'),
+(9881, 'Liam', 'Harris', 101, 'LPN', 'liam.harris@email.com', '9876543215', 'Male', '7AM-3PM', 'A-', '123 Vascular St'),
+(9882, 'Mia', 'Lewis', 102, 'RN', 'mia.lewis@email.com', '9876543216', 'Female', '7AM-3PM', 'O+', '456 Neuro Ln'),
+(9883, 'Oliver', 'Clark', 103, 'RN', 'oliver.clark@email.com', '9876543217', 'Male', '8AM-4PM', 'B+', '789 Bone Blvd'),
+(9884, 'Sophia', 'Rodriguez', 104, 'RN', 'sophia.rodriguez@email.com', '9876543218', 'Female', '9AM-5PM', 'O-', '321 Pediatric St'),
+(9885, 'James', 'Walker', 105, 'LPN', 'james.walker@email.com', '9876543219', 'Male', '8AM-4PM', 'A+', '654 Imaging Rd'),
+(9886, 'Ella', 'Allen', 101, 'RN', 'ella.allen@email.com', '9876543220', 'Female', '7AM-3PM', 'B-', '123 Heart St'),
+(9887, 'Lucas', 'King', 102, 'LPN', 'lucas.king@email.com', '9876543221', 'Male', '7AM-3PM', 'AB+', '456 Mental Rd'),
+(9888, 'Charlotte', 'Scott', 103, 'RN', 'charlotte.scott@email.com', '9876543222', 'Female', '8AM-4PM', 'O-', '789 Bone Blvd'),
+(9889, 'Jack', 'Young', 104, 'LPN', 'jack.young@email.com', '9876543223', 'Male', '9AM-5PM', 'B-', '321 Pediatrics Dr'),
+(9890, 'Isabella', 'Harris', 105, 'RN', 'isabella.harris@email.com', '9876543224', 'Female', '8AM-4PM', 'A+', '654 Imaging Ave'),
+(9891, 'Henry', 'White', 101, 'RN', 'henry.white@email.com', '9876543225', 'Male', '7AM-3PM', 'O+', '123 Vascular Rd'),
+(9892, 'Amelia', 'Taylor', 102, 'LPN', 'amelia.taylor@email.com', '9876543226', 'Female', '7AM-3PM', 'A-', '456 Neuro Dr'),
+(9893, 'Ethan', 'Evans', 103, 'RN', 'ethan.evans@email.com', '9876543227', 'Male', '8AM-4PM', 'AB-', '789 Bone Blvd'),
+(9894, 'Harper', 'Martinez', 104, 'LPN', 'harper.martinez@email.com', '9876543228', 'Female', '9AM-5PM', 'B+', '321 Pediatric Blvd'),
+(9895, 'David', 'Lewis', 105, 'RN', 'david.lewis@email.com', '9876543229', 'Male', '8AM-4PM', 'O-', '654 Imaging Blvd');

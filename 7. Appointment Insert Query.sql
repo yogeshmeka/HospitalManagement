@@ -1,0 +1,20 @@
+INSERT INTO Appointments (AppointmentId, PatientId, DoctorId, DateOfAppointment, TimeofAppointment, ReasonForVisit, AppointmentStatus)
+VALUES
+(20001, 112251, 12345, '2025-05-23', '10:30:00', 'Routine Check-up', 'Scheduled'),
+(20002, 112234, 12346, '2025-03-24', '11:00:00', 'Headache', 'Completed'),
+(20003, 112235, 12347, '2025-05-25', '12:30:00', 'Fracture follow-up', 'Scheduled'),
+(20004, 112243, 12348, '2025-05-26', '14:00:00', 'Asthma consultation', 'Scheduled'),
+(20005, 112237, 12349, '2025-03-27', '15:30:00', 'Pneumonia check-up', 'Completed'),
+(20006, 112238, 12350, '2025-05-28', '09:00:00', 'Iron deficiency check', 'Scheduled'),
+(20007, 112239, 12351, '2025-03-29', '11:00:00', 'Acne treatment', 'Completed'),
+(20008, 112240, 12352, '2025-06-30', '13:00:00', 'Physical Therapy', 'Scheduled'),
+(20010, 112243, 12354, '2025-05-01', '09:00:00', 'Sleep Consultation', 'Scheduled'),
+(20011, 112243, 12355, '2025-05-02', '10:30:00', 'Chronic cough treatment', 'Scheduled'),
+(20012, 112244, 12356, '2025-04-03', '12:00:00', 'Arthritis follow-up', 'Completed'),
+(20013, 112245, 12357, '2025-05-04', '14:00:00', 'Pneumonia check-up', 'Scheduled'),
+(20014, 112246, 12358, '2025-04-05', '15:30:00', 'Allergy consultation', 'Completed'),
+(20015, 112247, 12359, '2025-06-06', '9:30:00', 'Blood pressure check', 'Scheduled'),
+(20016, 112248, 12360, '2025-04-07', '10:00:00', 'Diabetes consultation', 'Completed'),
+(20017, 112249, 12361, '2025-05-08', '11:30:00', 'Obesity consultation', 'Scheduled'),
+(20018, 112250, 12362, '2025-05-09', '14:30:00', 'Back pain treatment', 'Scheduled'),
+(20019, 112233, 12346, '2025-05-03', '11:00:00', 'Headache', 'Scheduled');

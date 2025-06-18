@@ -1,0 +1,21 @@
+INSERT INTO Patient (PatientId, DoctorId, NurseId, FirstName, LastName, Gender, Age, Height, Weight, BloodGroup, ContactNumber, Email, Address, AdmissionStatus, EmergencyContactName, EmergencyContactNumber)
+VALUES
+(112233, 12345, 9876, 'Bob', 'Johnson', 'Male', 30, 5.9, 70.5, 'O-', '1122334455', 'bob.johnson@email.com', '789 Oak Rd', 1, 'Mary Johnson', '1122334456'),
+(112234, 12346, 9877, 'Maria', 'Rodriguez', 'Female', 28, 5.6, 60.0, 'A+', '1122334457', 'maria.rodriguez@email.com', '456 Maple St', 0, 'Carlos Rodriguez', '1122334458'),
+(112235, 12347, 9878, 'John', 'Taylor', 'Male', 45, 5.8, 85.0, 'B-', '1122334459', 'john.taylor@email.com', '789 Bone St', 1, 'Helen Taylor', '1122334460'),
+(112236, 12348, 9879, 'Sarah', 'Lee', 'Female', 32, 5.5, 65.0, 'AB+', '1122334461', 'sarah.lee@email.com', '321 Pine St', 1, 'Michael Lee', '1122334462'),
+(112237, 12349, 9880, 'Tom', 'Moore', 'Male', 50, 6.0, 90.0, 'O-', '1122334463', 'tom.moore@email.com', '654 Oak Blvd', 0, 'Rachel Moore', '1122334464'),
+(112238, 12350, 9881, 'Linda', 'Miller', 'Female', 33, 5.7, 68.0, 'A+', '1122334465', 'linda.miller@email.com', '321 Heart St', 1, 'Daniel Miller', '1122334466'),
+(112239, 12351, 9882, 'Kevin', 'Brown', 'Male', 29, 5.9, 75.0, 'B+', '1122334467', 'kevin.brown@email.com', '456 Skin Blvd', 1, 'Lily Brown', '1122334468'),
+(112240, 12352, 9883, 'Olivia', 'Wilson', 'Female', 38, 5.6, 70.0, 'O-', '1122334469', 'olivia.wilson@email.com', '789 Bone St', 1, 'Peter Wilson', '1122334470'),
+(112241, 12353, 9884, 'Jason', 'Davis', 'Male', 35, 5.8, 85.0, 'A-', '1122334471', 'jason.davis@email.com', '321 Digestive Rd', 0, 'Samantha Davis', '1122334472'),
+(112242, 12354, 9885, 'Sophia', 'Moore', 'Female', 26, 5.5, 58.0, 'B-', '1122334473', 'sophia.moore@email.com', '654 Kidney Ln', 1, 'Liam Moore', '1122334474'),
+(112243, 12355, 9886, 'Benjamin', 'Clark', 'Male', 40, 6.0, 80.0, 'O+', '1122334475', 'benjamin.clark@email.com', '123 Blood St', 1, 'Emily Clark', '1122334476'),
+(112244, 12356, 9887, 'Liam', 'Evans', 'Male', 34, 5.8, 77.5, 'O-', '1122334477', 'liam.evans@email.com', '456 Mental Rd', 0, 'Olivia Evans', '1122334478'),
+(112245, 12357, 9888, 'Grace', 'Parker', 'Female', 60, 5.5, 62.0, 'AB+', '1122334479', 'grace.parker@email.com', '789 Lungs Dr', 1, 'James Parker', '1122334480'),
+(112246, 12358, 9889, 'Sophie', 'Hall', 'Female', 25, 5.6, 65.0, 'A+', '1122334481', 'sophie.hall@email.com', '321 Kidney Ln', 1, 'David Hall', '1122334482'),
+(112247, 12359, 9890, 'Matthew', 'Nelson', 'Male', 47, 5.9, 79.0, 'B+', '1122334483', 'matthew.nelson@email.com', '654 Arthritis Ave', 1, 'Emma Nelson', '1122334484'),
+(112248, 12360, 9891, 'Isabella', 'Young', 'Female', 22, 5.4, 50.0, 'O-', '1122334485', 'isabella.young@email.com', '123 Blood St', 0, 'Grace Young', '1122334486'),
+(112249, 12361, 9892, 'Lucas', 'King', 'Male', 31, 5.8, 77.0, 'A-', '1122334487', 'lucas.king@email.com', '456 Senior Rd', 1, 'Emily King', '1122334488'),
+(112250, 12362, 9893, 'Ethan', 'Scott', 'Male', 42, 5.9, 83.0, 'O+', '1122334489', 'ethan.scott@email.com', '789 Smile Blvd', 1, 'Jessica Scott', '1122334490'),
+(112251, 12360, 9892, 'Liam', 'Lucero', 'Male', 33, 6.1, 83.0, 'O+', '1122334490', 'liam.lucero@email.com', '789 Smile Blvd', 1, 'Flora Lucero', '1122334465');
